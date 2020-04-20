@@ -1,0 +1,38 @@
+title: 따분한녀석의 고민
+author: ChoDaeyun
+email: chody0116@gmail.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  젠장
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl: 
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+
+permalink: /posts/:title/
+texture:
+  title: Daeyun
+  tagline: Developer
+  date_format: "%b %-d, %Y"
+  style: black
+  showNav: false
+  showPicker: false
+
+  # generate social links in footer
+  social_links:
+    github:  ChoDaeYun
+ 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+# theme: texture
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
