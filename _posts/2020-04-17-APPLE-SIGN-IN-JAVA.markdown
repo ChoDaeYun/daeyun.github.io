@@ -2,7 +2,7 @@
 layout: post
 title:  "애플로그인 적용시 자바서버에서 인증 확인"
 description: 자바에서 애플로그인 시 전달된 authorization code 값 인증 
-date:   2019-04-17 16:40:00 +000
+date:   2020-04-17 16:40:00 +000
 categories: Java
 ---
 # 애플로그인 적용을 해야 하는가...
