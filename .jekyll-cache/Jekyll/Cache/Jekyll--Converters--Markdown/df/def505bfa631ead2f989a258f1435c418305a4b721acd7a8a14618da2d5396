@@ -1,4 +1,4 @@
-I"�<h2 id="elk란">ELK란?</h2>
+I";<h2 id="elk란">ELK란?</h2>
 
 <p>ELK는 쉽게 Elasticsearch , Logstash , Kibana 의 세가지 오픈 소스를 합쳐 놓은 프로젝트의 약자입니다. 각각의 역활을 쉽게 표현 하자면 다음과 같습니다.Elasticsearch : 검색과 분석을 담당하는 저장소Logstash : 저장소에 저장이 되는 데이터 수집 및 전달Kibana : 저장소의 데이터를 시각화한 리포트 서비스</p>
 
@@ -6,7 +6,7 @@
 
 <p>Elasticsearch는 최근 몇년 사이 많은 발전을 하였습니다.또한 다양한 곳에서 활용도 하고 있는대 대표적인 서비스 예를 들면 삼성SDS 와 네이버가 있을 듯 합니다. 삼성SDS의 경우 Elasticsearch 기반으로 SDS Chatbot Brity 구축하였고네이버에서는 PaaS형 애플리케이션 로깅 시스템인 NELO에 Elasticsearch를 활용하기도 하였습니다.그 밖에 활용 사례는 아래의 링크에서 더 확인 가능합니다. ( 활용사례에 대한 강의 영상도 볼 수 있습니다.)</p>
 
-<p><a href="https://www.elastic.co/kr/use-cases/" target="_blank">[활용사례 보러기가]</a><br /></p>
+<p><a href="https://www.elastic.co/kr/use-cases/" target="_blank">[활용사례 보러가기]</a><br /></p>
 
 <h2 id="설치">설치</h2>
 
@@ -76,10 +76,10 @@ output {
 <p>실행 후 서비스 기동이 완료 된 뒤 localhost:5601 로 접근하시면 kibana에 접근이 됩니다.</p>
 
 <h2 id="기타">기타</h2>
-
 <p>명령 프롬프트로 매번 실행시키는게 불편하다면 NSSM을 사용하여 서비스에 등록하십시오.</p>
 
 <h2 id="마무리">마무리</h2>
-<p>우리는 간단한게 ELK 설치를 하는 과정을 진행해보앗습니다. 
+<p>짧긴하지만 대략적이라도 ELK 설치를 하는 과정을 진행해보았습니다. <br />
+( 2년전 참 힘들게 설치 했는데 지금은 뭔가 편해진느낌이네.. 세상참…음?)<br />
 다음(언제가 될지…)에는 일반적인 웹에서 elasticsearch 에 데이터를 남기는 방법에 대해서 진행해 보려고 합니다.</p>
 :ET
