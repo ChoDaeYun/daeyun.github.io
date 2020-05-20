@@ -2,7 +2,7 @@ title: 따분한녀석의 고민
 author: ChoDaeyun
 email: chody0116@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  젠장
+   이런거 참 안어울리는 개발자 
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: 
 
@@ -17,7 +17,7 @@ texture:
   tagline: Developer
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
+  showNav: true
   showPicker: false
 
   # generate social links in footer
