@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Redis Pub/Sub"
+title:  "Redis Pub/Sub - Spring Boot(Java)"
 description:  Redis를 활용한 Pub/Sub 적용 
 date:   2021-08-04 00:00:00 +000
 categories: Redis JAVA SpringBoot 

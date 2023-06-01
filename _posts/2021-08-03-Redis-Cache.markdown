@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Redis 캐시 및 장애대응"
+title:  "Redis 캐시 및 장애대응 - Spring Boot(Java)"
 description:  Reids 캐시 적용 및 장애대응 
 date:   2021-08-03 00:00:00 +000
 categories: Redis JAVA SpringBoot netflix-hystrix

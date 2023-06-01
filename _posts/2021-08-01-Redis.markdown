@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Redis 기본설정"
+title:  "Redis 기본설정 - Spring Boot(Java)"
 description:  Reids 설정 
 date:   2021-08-01 00:00:00 +000
 categories: Redis JAVA SpringBoot Lettuce
